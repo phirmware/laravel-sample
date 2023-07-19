@@ -4,5 +4,3 @@ value='nginx'
 [[build.env]]
 name='BP_PHP_WEB_DIR'
 value='public'
-
-
